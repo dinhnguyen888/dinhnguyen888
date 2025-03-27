@@ -13,7 +13,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 
----
 
 ## 🌟 Career Path:
 
@@ -33,10 +32,8 @@
 </p>
 
 
----
 
 ## 🌍 Most Used Languages:
-=
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhnguyen888&layout=compact&theme=tokyonight" />
   
 
