@@ -53,7 +53,7 @@
 
 ## 📫 Connect with me:
 <p align="left">
-  <a href="www.linkedin.com/in/nguyen-phuc-dinh" target="_blank">
+  <a href="https://www.linkedin.com/in/nguyen-phuc-dinh/" target="[_blank](https://www.linkedin.com/in/nguyen-phuc-dinh/)">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dinhnguyen888" target="_blank">
