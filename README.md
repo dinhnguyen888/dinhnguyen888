@@ -2,9 +2,16 @@
 
 
 
-## 🛠️ Technologies I use:
-- ⚡ .NET Core, React, WPF  
-- 🖥️ WinForms, Next.js  
+
+## 🧠 Skills:
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
+![WinForms](https://img.shields.io/badge/-WinForms-512BD4?style=flat-square&logo=windows&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 
 ---
 
@@ -33,21 +40,6 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhnguyen888&layout=compact&theme=tokyonight" />
   
 
-
-
-
-
----
-
-
-## 🧠 Skills:
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
-![WinForms](https://img.shields.io/badge/-WinForms-512BD4?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
