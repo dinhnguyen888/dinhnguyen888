@@ -21,7 +21,7 @@
    - Developed and debugged simple features.  
    - Collaborated with senior developers to improve project efficiency.
 - **Self-Taught Developer**
-   - Currently working on personal projects and sharpening my skills in WPF and backend development.  
+   - Currently working on personal projects and sharpening my skills in software and backend development.  
 
 ---
 
