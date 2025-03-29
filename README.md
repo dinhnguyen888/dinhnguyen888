@@ -17,9 +17,9 @@
 ## 🌟 Career Path:
 
 - **Backend Developer Intern at [Alta Software](https://altasoftware.vn/?lang=en)** (Oct 2024 – Jan 2025)  
-   - Worked on internal tools and enhanced app performance using .NET Core.  
-   - Developed and debugged simple features.  
-   - Collaborated with senior developers to improve project efficiency.
+   - Worked on internal tools and improved app performance using .NET Core.  
+   - Developed and debugged API services based on BRD.  
+   - Collaborated with senior developers to enhance project efficiency.
 - **Self-Taught Developer**
    - Currently working on personal projects and sharpening my skills in software and backend development.  
 
