@@ -1,7 +1,3 @@
-<h1 align="center">👋 Hi! I'm Đỉnh 🚀, but you can call me Đẻng if you like :)) </h1>
-
-
-
 
 ## 🧠 Skills:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
