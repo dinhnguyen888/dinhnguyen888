@@ -1,4 +1,3 @@
-
 ## 🧠 Skills:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -8,16 +7,20 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-
-
 ## 🌟 Career Path:
+- **Self-Taught Developer**  
+   - Currently working on personal projects and sharpening my skills in software and backend development. 
+
+- **C# Developer Intern at TGL Solution** (Mar 2025 – May 2025)  
+   - Developed, tested, and maintained TakaCad and other AutoCAD plugin software.  
+   - Actively participated in team meetings, regularly reported work progress, and worked under the guidance of the Unit Leader.
 
 - **Backend Developer Intern at [Alta Software](https://altasoftware.vn/?lang=en)** (Oct 2024 – Jan 2025)  
    - Worked on internal tools and improved app performance using .NET Core.  
    - Developed and debugged API services based on BRD.  
    - Collaborated with senior developers to enhance project efficiency.
-- **Self-Taught Developer**
-   - Currently working on personal projects and sharpening my skills in software and backend development.  
+
+ 
 
 ---
 
@@ -27,12 +30,8 @@
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dinhnguyen888&show_icons=true&theme=radical" />
 </p>
 
-
-
 ## 🌍 Most Used Languages:
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhnguyen888&layout=compact&theme=tokyonight" />
-  
-
 
 ---
 
